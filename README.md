@@ -9,7 +9,7 @@ Convert &lt;IMG> elements to interactive image compare elements.
 ```
 <!-- 1. import jquery and this plugin file in html page -->
 <script src='//code.jquery.com/jquery-1.11.3.min.js'></script>
-<script src='jquery.;imageCompare.js'></script>
+<script src='jquery.imageCompare.js'></script>
 
 <!-- 2. add img tags -->
 <img src='user_image_url' data-cover='user_image_to_compares' />
