@@ -4,6 +4,10 @@
 
 Convert &lt;IMG> elements to interactive image compare elements.
 
+## Demo
+
+http://web.lazygyu.net/demos/imageCompare/
+
 ## How to use
 
 ```
